@@ -1,4 +1,4 @@
-function! BlameFunction()
+function! VimBlame()
   let file = expand('%')
   let line = line('.')
   let type = &filetype
