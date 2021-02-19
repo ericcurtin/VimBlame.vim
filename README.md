@@ -7,7 +7,7 @@ Or `:source VimBlame.vim` to load it into your running session.
 
 You can set a keyboard shortcut if you want by placing something like: 
 ```
-  map <F5> :call VimBlame.vim()<CR>
+  map <F6> :call VimBlame.vim()<CR>
 ```
 in your `~/.vimrc` file.  Yes, the `<CR>` is literally there at the end
 as the four characters shown.
